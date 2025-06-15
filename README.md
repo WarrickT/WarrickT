@@ -1,5 +1,7 @@
 # Hi, Warrick Tsui here! 👋
 
+![Description](assets/Banner.gif)
+
 📚 I am a Computer Engineering Student at the University of Toronto. <br/>
 ⌨️ Aspiring Software Developer passionate about AI agents and Machine learning! <br/>
 🔧 I am helping Professor Salma Emara @ UofT develop an Engineering AI Chatbot! <br/>
