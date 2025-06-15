@@ -1,9 +1,9 @@
 # Hi, Warrick Tsui here! 👋
 
-🖥️ I am a Computer Engineering Student at the University of Toronto. <br/>
+📚 I am a Computer Engineering Student at the University of Toronto. <br/>
 ⌨️ Aspiring Software Developer passionate about AI agents and Machine learning! <br/>
 
-# Tech Stack!
+## 🖥️ Tech Stack!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
