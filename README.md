@@ -6,7 +6,7 @@
 ⌨️ Aspiring Software Developer passionate about Machine Learning, Software Engineering, and AI Agents! <br/>
 🔧 I am helping Professor Salma Emara @ UofT develop and deploy an Engineering AI Chatbot! <br/>
 🧑‍💻 I am currently an ML Developer for UTMIST (University of Toronto Machine Intelligence Student Team!)<br>
-💻 I am also a Web Associate at UofT's IEEE Student Branch!
+💻 I am also a Web Associate at UofT's IEEE Student Branch!<br>
 ✉️ Reach me through: warricktsui1226@gmail.com <br/>
 
 ## 🖥️ Tech Stack!
